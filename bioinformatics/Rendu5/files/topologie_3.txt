@@ -1,0 +1,1 @@
+((((((Poulet,Vautour),(Homme,Souris)),Xenope),Tortue),Truite),Chondricht);
